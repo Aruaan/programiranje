@@ -1,0 +1,3 @@
+C:\Users\XMG\Desktop\Kotlin Koans1\Conventions\For loop\src\DateUtil.kt
+C:\Users\XMG\Desktop\Kotlin Koans1\Conventions\For loop\src\MyDate.kt
+C:\Users\XMG\Desktop\Kotlin Koans1\Conventions\For loop\src\Task.kt

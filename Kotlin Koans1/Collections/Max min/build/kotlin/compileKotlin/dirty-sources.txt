@@ -1,0 +1,2 @@
+C:\Users\XMG\Desktop\Kotlin Koans1\Collections\Max min\src\Shop.kt
+C:\Users\XMG\Desktop\Kotlin Koans1\Collections\Max min\src\Task.kt

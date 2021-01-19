@@ -1,0 +1,2 @@
+C:\Users\XMG\Desktop\Kotlin Koans1\Collections\Sum\src\Shop.kt
+C:\Users\XMG\Desktop\Kotlin Koans1\Collections\Sum\src\Task.kt

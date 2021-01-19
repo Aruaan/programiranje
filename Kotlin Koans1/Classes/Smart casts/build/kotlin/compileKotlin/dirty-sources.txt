@@ -1,0 +1,1 @@
+C:\Users\XMG\Desktop\Kotlin Koans1\Classes\Smart casts\src\Task.kt

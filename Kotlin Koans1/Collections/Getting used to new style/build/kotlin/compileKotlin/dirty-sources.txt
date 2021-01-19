@@ -1,0 +1,1 @@
+C:\Users\XMG\Desktop\Kotlin Koans1\Collections\Getting used to new style\src\Task.kt
